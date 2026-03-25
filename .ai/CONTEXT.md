@@ -3,7 +3,7 @@
 > 最后更新：2025-07-11
 
 ## 当前阶段
-Phase 2：01-awakening 已完成，准备进入 02-foundations 内容开发
+Phase 3：01-awakening 和 02-foundations 已完成，准备进入 03-security 内容开发
 
 ## 已完成
 - [x] 项目核心理念确定
@@ -18,12 +18,18 @@ Phase 2：01-awakening 已完成，准备进入 02-foundations 内容开发
 - [x] AI协作记忆体系建立（CLAUDE.md + .ai/目录）
 - [x] 多轮需求评审完成
 - [x] GitHub仓库初始化完成
-- [x] 第一次commit完成
-- [x] 01-awakening 阶段内容开发完成（7个文件，含阶段导航+6个模块）
-- [x] SESSIONS.md 创建并补全历史记录
+- [x] 01-awakening 阶段内容开发完成（7个文件）
+- [x] 02-foundations/mathematics 完成（5个文件）
+- [x] 02-foundations/machine-learning 完成（5个文件）
+- [x] 02-foundations/deep-learning 完成（6个文件）
+- [x] 02-foundations/llm-internals 完成（9个文件）
+- [x] 02-foundations/ai-infrastructure 完成（5个文件）
+- [x] 02-foundations/data-foundations 完成（5个文件）
+- [x] 02-foundations/model-evaluation-foundations 完成（1个文件）
+- [x] SESSIONS.md 创建并持续更新
 
 ## 当前任务
-- [ ] 开始 02-foundations 阶段内容开发
+- [ ] 开始 03-security 阶段内容开发
 - [ ] 完成 CONTRIBUTING.md 正式版
 - [ ] 完成 ROADMAP.md 正式版
 
@@ -31,8 +37,7 @@ Phase 2：01-awakening 已完成，准备进入 02-foundations 内容开发
 - 是否需要项目官网（GitHub Pages）
 - 社区互动方式选择
 - 内容更新频率承诺
-- 项目构建日志的具体记录粒度
-- 02-foundations 的数学基础模块深度：面向零基础还是假设高中数学水平
+- 03-security 的实战Lab环境方案
 
 ## 技术栈决策记录
 | 决策项 | 选择 | 原因 |
@@ -45,3 +50,4 @@ Phase 2：01-awakening 已完成，准备进入 02-foundations 内容开发
 | 双语策略 | 中文主版本 + 英文版 | 创始人中文思考，兼顾国际社区 |
 | 专题与阶段关系 | 专题通过链接引用阶段内容 | 知识单一来源，便于维护 |
 | 链接失效策略 | 保留关键词+替代建议，优先自动化 | 知识地图不因链接断裂 |
+| 数学模块深度 | 面向大学本科以上数学水平 | 不重新教数学，建立数学→AI的桥梁 |
